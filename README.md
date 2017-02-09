@@ -1,0 +1,2 @@
+# estructuras
+computer structure
